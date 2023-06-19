@@ -9,7 +9,7 @@ on:
       clipath:
         # Host/IP adress input from users
         description: CLI Execution path
-        default: C:\Topaz\WorkbenchCLI
+        default: C:\Topaz\WorkbenchCLI\workspace
         required: true
       hciconnection:
         # Host/IP adress input from users
