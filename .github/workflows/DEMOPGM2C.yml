@@ -29,7 +29,7 @@ on:
       workspace:
         # Workspcae location of the customer input from the user.
         description: CLI path
-        default: C:\Users\sandhata\Compuware\Workbench\workspace_02
+        default: C:\Users\sandhata\Compuware\Workbench\workspace_01
         required: true        
       repository_server:
         # repository server input from the user.
