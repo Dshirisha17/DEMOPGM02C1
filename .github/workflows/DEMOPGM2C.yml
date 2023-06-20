@@ -34,7 +34,7 @@ on:
       jclpath:
       # jcl runner
         description: jcl runner name
-        default: TTTRUNNER.jcl
+        default: Runner.jcl
         required: true
       workspace:
         # Workspcae location of the customer input from the user.
